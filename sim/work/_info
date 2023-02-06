@@ -1,0 +1,374 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/Lab10/sim
+T_opt
+!s11d ram_pkg /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/Lab10/sim/work 1 ram_if 1 /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/Lab10/sim/work 
+!s110 1675353657
+V_2elzOjN<3JNPVk3GHCH<1
+Z2 04 3 4 work top fast 0
+=1-000ae431a4f1-63dbde39-1b47c-217299
+R0
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OE;O;2022.1;75
+R1
+T_opt1
+Z7 !s11d count_pkg /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/mini_proj/sim/work 1 count_if 1 /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/mini_proj/sim/work 
+!s110 1675623271
+VWJN0?RWo;36A7jMoRGJC[0
+R2
+=1-000ae431a4f1-63dffb66-d3afd-7dc03
+R0
+R3
+R4
+R5
+n@_opt1
+R6
+T_opt2
+!s11d top_sv_unit /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/mini_proj/sim/work 1 count_if 1 /home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/mini_proj/sim/work 
+R7
+!s110 1675536464
+VMzkIei?dUb;]<KKo<7Ydh1
+R2
+=1-000ae431a4f1-63dea84f-b1e25-3e1885
+R0
+R3
+R4
+R5
+n@_opt2
+R6
+R1
+vcount
+Z8 !s110 1675623270
+!i10b 1
+!s100 8H]hGjUgLRKdM5;h]7oc@0
+ITYb2Z]V]XeI1Z@;N9a4S^1
+Z9 d/home1/BRN29/ShivaPrasad/VLSI_RN/SV_LABS/mini_proj/sim
+w1675622618
+8../rtl/count.v
+F../rtl/count.v
+!i122 93
+L0 1 25
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OE;L;2022.1;75
+r1
+!s85 0
+31
+Z12 !s108 1675623269.000000
+Z13 !s107 ../test/test.sv|../env/count_env.sv|../env_lib/count_sb.sv|../env_lib/count_model.sv|../env_lib/count_read_mon.sv|../env_lib/count_write_mon.sv|../env_lib/count_write_bfm.sv|../env_lib/count_gen.sv|../env_lib/count_trans.sv|../test/top.sv|../env_lib/count_if.sv|../test/count_pkg.sv|../rtl/count.v|
+Z14 !s90 -work|work|../rtl/count.v|+incdir+../env|+incdir+../env_lib|+incdir+../test|../test/count_pkg.sv|../env_lib/count_if.sv|../test/top.sv|-coveropt|3|+cover=bcft|
+!i113 0
+Z15 !s102 -coveropt 3 +cover=bcft
+Z16 o-work work -coveropt 3 +cover=bcft -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 !s92 -work work +incdir+../env +incdir+../env_lib +incdir+../test -coveropt 3 +cover=bcft -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+Ycount_if
+Z18 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R8
+!i10b 1
+!s100 ^8cWIRK8_AgA<odee_]=73
+IDI:A01gZGCAe1oJ4@7n`c1
+S1
+R9
+w1675620126
+8../env_lib/count_if.sv
+F../env_lib/count_if.sv
+!i122 93
+L0 1 0
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R5
+Xcount_pkg
+!s115 count_if
+R18
+R8
+!i10b 1
+!s100 M_QmD?Q]lDcj8UQ=6PkTH3
+IOhbDTDBd9RGoD7?B[W=FV1
+S1
+R9
+w1675623261
+8../test/count_pkg.sv
+F../test/count_pkg.sv
+F../env_lib/count_trans.sv
+F../env_lib/count_gen.sv
+F../env_lib/count_write_bfm.sv
+F../env_lib/count_write_mon.sv
+F../env_lib/count_read_mon.sv
+F../env_lib/count_model.sv
+F../env_lib/count_sb.sv
+F../env/count_env.sv
+Z19 F../test/test.sv
+!i122 93
+L0 2 0
+VOhbDTDBd9RGoD7?B[W=FV1
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R5
+vdual_mem
+Z20 !s110 1675353699
+!i10b 1
+!s100 bbS3Oz5PLZK3a:Ceb[hDA3
+IT`cFQlP6njL7JPI??Sd:C3
+R1
+Z21 w1667557012
+8../rtl/dual_mem.v
+F../rtl/dual_mem.v
+!i122 6
+L0 24 51
+R10
+R11
+r1
+!s85 0
+31
+Z22 !s108 1675353699.000000
+Z23 !s107 ../test/test.sv|../env/ram_env.sv|../env_lib/ram_sb.sv|../env_lib/ram_model.sv|../env_lib/ram_read_mon.sv|../env_lib/ram_write_mon.sv|../env_lib/ram_read_bfm.sv|../env_lib/ram_write_bfm.sv|../env_lib/ram_gen.sv|../env_lib/ram_trans.sv|../test/top.sv|../env_lib/ram_if.sv|../test/ram_pkg.sv|../rtl/ram_4096.v|../rtl/mem_dec.v|../rtl/dual_mem.v|
+Z24 !s90 -work|work|../rtl/dual_mem.v|../rtl/mem_dec.v|../rtl/ram_4096.v|+incdir+../env|+incdir+../env_lib|+incdir+../test|../test/ram_pkg.sv|../env_lib/ram_if.sv|../test/top.sv|-coveropt|3|+cover=bcft|
+!i113 0
+R15
+R16
+R17
+R5
+vmem_dec
+R20
+!i10b 1
+!s100 _QO2]b6MB[i8]JakPK1=j0
+I@dTk2KjUUGkOnAfb7Rk;c1
+R1
+R21
+8../rtl/mem_dec.v
+F../rtl/mem_dec.v
+!i122 6
+L0 25 26
+R10
+R11
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 0
+R15
+R16
+R17
+R5
+vram_4096
+R20
+!i10b 1
+!s100 gOPa;^E<EZbe7I_=H5^k@3
+IC]Xl?eh<nj@_bIc0D[5Mc2
+R1
+R21
+8../rtl/ram_4096.v
+F../rtl/ram_4096.v
+!i122 6
+L0 29 91
+R10
+R11
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 0
+R15
+R16
+R17
+R5
+Yram_if
+R18
+R20
+!i10b 1
+!s100 hkLD?Va;kbGHk?d7di4PN2
+ISC56Q3KiEXMlY2XY23NZQ0
+S1
+R1
+R21
+8../env_lib/ram_if.sv
+F../env_lib/ram_if.sv
+!i122 6
+L0 24 0
+R10
+R11
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 0
+R15
+R16
+R17
+R5
+Xram_pkg
+!s115 ram_if
+R18
+R20
+!i10b 1
+!s100 D9@]VEo>FM`9dGOnzU>ik3
+I^DYCk]]X;i=Y0H2g^[T]e3
+S1
+R1
+w1675353649
+8../test/ram_pkg.sv
+F../test/ram_pkg.sv
+F../env_lib/ram_trans.sv
+F../env_lib/ram_gen.sv
+F../env_lib/ram_write_bfm.sv
+F../env_lib/ram_read_bfm.sv
+F../env_lib/ram_write_mon.sv
+F../env_lib/ram_read_mon.sv
+F../env_lib/ram_model.sv
+F../env_lib/ram_sb.sv
+F../env/ram_env.sv
+R19
+!i122 6
+L0 23 0
+V^DYCk]]X;i=Y0H2g^[T]e3
+R11
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 0
+R15
+R16
+R17
+R5
+vtop
+R18
+Z25 DXx4 work 9 count_pkg 0 22 OhbDTDBd9RGoD7?B[W=FV1
+DXx4 work 11 top_sv_unit 0 22 N?:dbAR>zWlTVK>QU:nE32
+R8
+R10
+r1
+!s85 0
+!i10b 1
+!s100 5R1>2RjKV<69T=eSb;eBO3
+IOXfkNFOXZl0UQO5_PA2kY1
+!s105 top_sv_unit
+S1
+R9
+Z26 w1675621007
+Z27 8../test/top.sv
+Z28 F../test/top.sv
+!i122 93
+L0 4 46
+R11
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R5
+Xtop_sv_unit
+R18
+R25
+R8
+VN?:dbAR>zWlTVK>QU:nE32
+r1
+!s85 0
+!i10b 1
+!s100 DUoIbG;AaDL<o3iCUMWk^2
+IN?:dbAR>zWlTVK>QU:nE32
+!i103 1
+S1
+R9
+R26
+R27
+R28
+!i122 93
+L0 3 0
+R11
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R5

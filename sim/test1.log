@@ -1,0 +1,250 @@
+# vsim -cvgperinstance -vopt -voptargs="+acc" -coverage -sva -c -do " log -r /* ;coverage save -onexit mem_cov1;run -all; exit" -wlf wave_file1.wlf -l test1.log -sv_seed random work.top "+TEST1" 
+# Start time: 00:24:30 on Feb 06,2023
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# //  Questa Sim
+# //  Version 2022.1 linux Jan 29 2022
+# //
+# //  Copyright 1991-2022 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.count_if(fast)
+# Loading work.count_pkg(fast)
+# Loading work.top_sv_unit(fast)
+# Loading work.top(fast)
+# Loading work.count_if(fast__2)
+# Loading work.count(fast)
+# Sv_Seed = 1490596035
+#  log -r /* 
+# coverage save -onexit mem_cov1
+# run -all
+# build success
+# --RANDOMIZED DATA--
+# data_in= 1
+# load=0
+# count= x
+# ________
+# -----From Gen------
+# up-down=0
+# load=0
+# data_in= 1
+# count= x
+# resetn=x
+# ________
+# ________
+# --RANDOMIZED DATA--
+# data_in= 8
+# load=0
+# count= x
+# ________
+# -----From Gen------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# --RANDOMIZED DATA--
+# data_in= 3
+# load=0
+# count= x
+# ________
+# -----From Gen------
+# up-down=0
+# load=0
+# data_in= 3
+# count= x
+# resetn=x
+# ________
+# ________
+# --RANDOMIZED DATA--
+# data_in= 8
+# load=0
+# count= x
+# ________
+# -----From Gen------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# --RANDOMIZED DATA--
+# data_in= 5
+# load=0
+# count= x
+# ________
+# -----From Gen------
+# up-down=1
+# load=0
+# data_in= 5
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Driver------
+# up-down=0
+# load=0
+# data_in= 1
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Read Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count= 0
+# resetn=x
+# ________
+# ________
+# count matches
+# data verified=          1
+# ________
+# -----From Write Driver------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Monitor------
+# up-down=0
+# load=0
+# data_in= 1
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Read Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count= 0
+# resetn=x
+# ________
+# ________
+# count matches
+# data verified=          2
+# ________
+# -----From Write Driver------
+# up-down=0
+# load=0
+# data_in= 3
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Monitor------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Read Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count=11
+# resetn=x
+# ________
+# ________
+# count not matching
+# data verified=          3
+# ________
+# -----From Write Driver------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Monitor------
+# up-down=0
+# load=0
+# data_in= 3
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Read Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count= 0
+# resetn=x
+# ________
+# ________
+# count matches
+# data verified=          4
+# ________
+# -----From Write Driver------
+# up-down=1
+# load=0
+# data_in= 5
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Write Monitor------
+# up-down=1
+# load=0
+# data_in= 8
+# count= x
+# resetn=x
+# ________
+# ________
+# ________
+# -----From Read Monitor------
+# up-down=x
+# load=x
+# data_in= x
+# count=11
+# resetn=x
+# ________
+# ________
+# count not matching
+# data verified=          5
+# .............SCOREBOARD REPORT................
+# data_generated-1179659
+# data_verified-          5
+# .................................................
+# ** Note: $finish    : ../test/test.sv(27)
+#    Time: 75 ns  Iteration: 6  Instance: /top
+# Saving coverage database on exit...
+# End time: 00:24:31 on Feb 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1

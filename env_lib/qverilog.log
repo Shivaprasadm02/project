@@ -1,0 +1,9 @@
+Start time: 22:21:24 on Feb 04,2023
+qverilog count_trans.sv 
+-- Compiling package count_trans_sv_unit
+
+Top level modules:
+	--none--
+** Error: (qverilog-2105) There are no top-level modules on which vsim can be invoked.
+End time: 22:21:24 on Feb 04,2023, Elapsed time: 0:00:00
+Errors: 1, Warnings: 0

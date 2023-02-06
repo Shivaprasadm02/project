@@ -1,0 +1,2 @@
+var g_data = {"9":{"pr":"/count_pkg","ty":2,"dui":2,"dun":"work.count_pkg","asserts":[{"n":["count_gen/start/#anonblk#207228279#15#4#/#ublk#207228279#16/immed__17"],"h":[0,1]}],"ad":0}}
+processAssertionsData(g_data);

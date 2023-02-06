@@ -1,0 +1,181 @@
+# Current time Sat Feb  4 21:47:09 2023
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf69b3ba5: '../env_lib/count_write_mon.sv:16'
+# 1    0xf69b3ff1: '../env_lib/count_write_mon.sv:27'
+# 2    0x09d40209: '<unknown (@0x9d40209)>'
+# 3    0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 4    0x081098d2: '<unknown (@0x81098d2)>'
+# 5    0x08323f3d: '<unknown (@0x8323f3d)>'
+# 6    0x08831a30: '<unknown (@0x8831a30)>'
+# 7    0x08837037: '<unknown (@0x8837037)>'
+# 8    0x08838e0f: '<unknown (@0x8838e0f)>'
+# 9    0x08b00697: '<unknown (@0x8b00697)>'
+# 10   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 11   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 12   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 13   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 14   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 15   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 16   0x08d83877: '<unknown (@0x8d83877)>'
+# 17   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 18   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 19   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 20   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 21   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 22   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 23   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 24   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Sat Feb  4 21:48:34 2023
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf69b5165: '../env_lib/count_read_mon.sv:16'
+# 1    0xf69b54fc: '../env_lib/count_read_mon.sv:24'
+# 2    0x09d40209: '<unknown (@0x9d40209)>'
+# 3    0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 4    0x081098d2: '<unknown (@0x81098d2)>'
+# 5    0x08323f3d: '<unknown (@0x8323f3d)>'
+# 6    0x08831a30: '<unknown (@0x8831a30)>'
+# 7    0x08837037: '<unknown (@0x8837037)>'
+# 8    0x08838e0f: '<unknown (@0x8838e0f)>'
+# 9    0x08b00697: '<unknown (@0x8b00697)>'
+# 10   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 11   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 12   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 13   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 14   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 15   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 16   0x08d83877: '<unknown (@0x8d83877)>'
+# 17   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 18   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 19   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 20   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 21   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 22   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 23   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 24   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Sun Feb  5 23:52:59 2023
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf69ba703: '../env/count_env.sv:57'
+# 1    0xf69baa7f: '../env/count_env.sv:63'
+# 2    0xf69bb982: '../test/test.sv:26'
+# 3    0xf69bc439: '../test/top.sv:32'
+# 4    0x09d40209: '<unknown (@0x9d40209)>'
+# 5    0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 6    0x081098d2: '<unknown (@0x81098d2)>'
+# 7    0x08323f3d: '<unknown (@0x8323f3d)>'
+# 8    0x08831a30: '<unknown (@0x8831a30)>'
+# 9    0x08837037: '<unknown (@0x8837037)>'
+# 10   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 11   0x08b00697: '<unknown (@0x8b00697)>'
+# 12   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 13   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 14   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 15   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 16   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 17   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 18   0x08d83877: '<unknown (@0x8d83877)>'
+# 19   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 20   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 21   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 22   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 23   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 24   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 25   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 26   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Sun Feb  5 23:53:50 2023
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf69ba56d: '../env/count_env.sv:49'
+# 1    0xf69bac95: '../env/count_env.sv:62'
+# 2    0xf69bbc12: '../test/test.sv:26'
+# 3    0xf69bc6c9: '../test/top.sv:32'
+# 4    0x09d40209: '<unknown (@0x9d40209)>'
+# 5    0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 6    0x081098d2: '<unknown (@0x81098d2)>'
+# 7    0x08323f3d: '<unknown (@0x8323f3d)>'
+# 8    0x08831a30: '<unknown (@0x8831a30)>'
+# 9    0x08837037: '<unknown (@0x8837037)>'
+# 10   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 11   0x08b00697: '<unknown (@0x8b00697)>'
+# 12   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 13   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 14   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 15   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 16   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 17   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 18   0x08d83877: '<unknown (@0x8d83877)>'
+# 19   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 20   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 21   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 22   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 23   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 24   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 25   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 26   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
+# Current time Mon Feb  6 00:00:28 2023
+# Program = vsim
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Signature = 250688c0e91c1cbf26deae5d53941f6b
+# 0    0xf69ba643: '../env/count_env.sv:56'
+# 1    0xf69ba9bf: '../env/count_env.sv:62'
+# 2    0xf69bb8c2: '../test/test.sv:26'
+# 3    0xf69bc379: '../test/top.sv:32'
+# 4    0x09d40209: '<unknown (@0x9d40209)>'
+# 5    0x082e6ff4: '<unknown (@0x82e6ff4)>'
+# 6    0x081098d2: '<unknown (@0x81098d2)>'
+# 7    0x08323f3d: '<unknown (@0x8323f3d)>'
+# 8    0x08831a30: '<unknown (@0x8831a30)>'
+# 9    0x08837037: '<unknown (@0x8837037)>'
+# 10   0x08838e0f: '<unknown (@0x8838e0f)>'
+# 11   0x08b00697: '<unknown (@0x8b00697)>'
+# 12   0x0a1d111b: '<unknown (@0xa1d111b)>'
+# 13   0x0a1d070a: '<unknown (@0xa1d070a)>'
+# 14   0x0a1d5c93: '<unknown (@0xa1d5c93)>'
+# 15   0x0a1d5daa: '<unknown (@0xa1d5daa)>'
+# 16   0x0a1d7451: '<unknown (@0xa1d7451)>'
+# 17   0x0a1d77c6: '<unknown (@0xa1d77c6)>'
+# 18   0x08d83877: '<unknown (@0x8d83877)>'
+# 19   0x0a27f4c7: '<unknown (@0xa27f4c7)>'
+# 20   0x0a2d979c: '<unknown (@0xa2d979c)>'
+# 21   0x0a2dc608: '<unknown (@0xa2dc608)>'
+# 22   0x0a2989c8: '<unknown (@0xa2989c8)>'
+# 23   0x0a298cd5: '<unknown (@0xa298cd5)>'
+# 24   0x0a06aaa5: '<unknown (@0xa06aaa5)>'
+# 25   0x087fb9cf: '<unknown (@0x87fb9cf)>'
+# 26   0x086983d7: '<unknown (@0x86983d7)>'
+# End of Stack Trace
+
+
